@@ -1,0 +1,12 @@
+.navbar{
+   text-align: right !important;
+}
+
+.title{
+    text-align: center;
+    color: green;
+}
+
+.bg-menu{
+    background-color: darkgreen !important;
+}
